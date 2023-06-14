@@ -1,0 +1,1 @@
+web: gunicorn pomodoro_routing:app
